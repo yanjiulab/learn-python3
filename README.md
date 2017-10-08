@@ -1,6 +1,6 @@
 This project includes some implementations of python3.
 
-[The Tutorial](http://liyanjiu.github.com/2017/07/27/python-tutorial) is here.
+[The Tutorial](https://liyanjiu.github.io/2017/07/27/python-tutorial) is here.
 
 Getting Started with Python | 从这里开始
 ---------------------------
