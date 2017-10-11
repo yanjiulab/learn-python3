@@ -13,24 +13,34 @@ Writing Great Python Code | 写出规范化的代码
 
 Samples | Python用法示例
 -------------
-Giving my poor memorise, writing down the samples of py3 sounds a good idea.
-**This is the actual part of this project.** 
+This part is suitable for beginners and supports a fast usage for coding.
 
 Frequently-used Standard Libraries | 常用标准库
 ----------------------------------
+This part is suitable for deeper learners of Python.  
+
+Showing the structure of Python Standard libraries and understand what Python can do.   
 
 Scenario Guide for Python Applications | 不同情境下的应用
 --------------------------------------
+When we make our own applications, what modules or packages can we use?
+I write down the experienced knowledge into a list for different scenario. 
 
 Shipping Great Python Code | 部署自己的代码
 --------------------------
 
 FAQ | 常见问题汇总
 ---
+- Official FAQ
+- Stack Overflow
+- Vim for Python
+- Pycharm
+
 
 Do python by Myself | 实战项目记录
 -------------------
-
+- Django
+- Scrapy
 
 References | 学习参考资料
 ----------
