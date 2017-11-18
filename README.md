@@ -26,6 +26,8 @@ Scenario Guide for Python Applications | 不同情境下的应用
 When we make our own applications, what modules or packages can we use?
 I write down the experienced knowledge into a list for different scenario. 
 
+- pdf2txt: pdfminer.six
+
 Shipping Great Python Code | 部署自己的代码
 --------------------------
 
@@ -39,6 +41,8 @@ FAQ | 常见问题汇总
 
 Do python by Myself | 实战项目记录
 -------------------
+- [Data structure and Algorithms in Python](https://github.com/liyanjiu/learn-algorithms)  
+- Numpy
 - Django
 - Scrapy
 
@@ -47,3 +51,5 @@ References | 学习参考资料
 - 官方文档(En|zh)
 - 廖大大(zh)
 - Kenneth Reitz(En)
+
+
