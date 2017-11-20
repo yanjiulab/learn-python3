@@ -21,12 +21,14 @@ This part is suitable for deeper learners of Python.
 
 Showing the structure of Python Standard libraries and understand what Python can do.   
 
-Scenario Guide for Python Applications | 不同情境下的应用
+Scenario Guide for Python Applications (3-party Libs) | 不同情境下的应用
 --------------------------------------
 When we make our own applications, what modules or packages can we use?
 I write down the experienced knowledge into a list for different scenario. 
-
-- pdf2txt: pdfminer.six
+- Numpy
+- Scipy
+- Matplotlib
+- pdfminer.six
 
 Shipping Great Python Code | 部署自己的代码
 --------------------------
