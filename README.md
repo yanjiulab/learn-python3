@@ -1,5 +1,7 @@
 # Learning Python 3 
 
+Given the low speed of loading the file with `.ipynb` suffix in Github, see this notes in [Nbviewer](http://nbviewer.jupyter.org/github/liyanjiu/learn-python3).
+
 This project includes some implementations of python3.
 
 [The Tutorial](https://liyanjiu.github.io/2017/07/27/python-tutorial) is here.
