@@ -1,3 +1,5 @@
+# Learning Python 3 
+
 This project includes some implementations of python3.
 
 [The Tutorial](https://liyanjiu.github.io/2017/07/27/python-tutorial) is here.
@@ -50,8 +52,17 @@ Do python by Myself | 实战项目记录
 
 References | 学习参考资料
 ----------
-- 官方文档(En|zh)
-- 廖大大(zh)
-- Kenneth Reitz(En)
-
-
+- [Python.org](https://www.python.org/)
+- [Python 3 Documentation](https://docs.python.org/3/)
+- [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
+- [The Hitchhiker’s Guide to Python](http://docs.python-guide.org/en/latest/)
+- [Lijin-THU-Notes-Python](http://nbviewer.jupyter.org/github/lijin-THU/notes-python/blob/master/index.ipynb)
+- [SciPy.org](https://scipy.org/)
+    - [Numpy](https://docs.scipy.org/doc/numpy/)
+    - [Scipy](https://docs.scipy.org/doc/scipy/reference/)
+    - [Matplotlib](http://matplotlib.org/contents.html)
+    - IPython
+    - SymPy
+    - Pandas
+- 
+ 
