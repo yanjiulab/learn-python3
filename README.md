@@ -1,10 +1,10 @@
 # Learning Python 3 
 
-Given the low speed of loading the file with `.ipynb` suffix in Github, see this notes in [Nbviewer](http://nbviewer.jupyter.org/github/liyanjiu/learn-python3).
+Given the low speed of loading `.ipynb` file extension in Github, see this notes in [Nbviewer](http://nbviewer.jupyter.org/github/liyanjiu/learn-python3).
 
 This project includes some implementations of python3.
 
-[The Tutorial](https://liyanjiu.github.io/2017/07/27/python-tutorial) is here.
+## Index
 
 Getting Started with Python | 从这里开始
 ---------------------------
@@ -25,8 +25,7 @@ This part is suitable for deeper learners of Python.
 
 Showing the structure of Python Standard libraries and understand what Python can do.   
 
-Scenario Guide for Python Applications (3-party Libs) | 不同情境下的应用
---------------------------------------
+## Scenario Guide for Python Applications (3-Party Libs) | 不同情境下的应用
 When we make our own applications, what modules or packages can we use?
 I write down the experienced knowledge into a list for different scenario. 
 - Numpy
@@ -34,26 +33,22 @@ I write down the experienced knowledge into a list for different scenario.
 - Matplotlib
 - pdfminer.six
 
-Shipping Great Python Code | 部署自己的代码
---------------------------
+## Shipping Great Python Code | 部署自己的代码
 
-FAQ | 常见问题汇总
----
+
+## FAQ | 常见问题汇总
 - Official FAQ
 - Stack Overflow
 - Vim for Python
 - Pycharm
 
-
-Do python by Myself | 实战项目记录
--------------------
+## Use Python in Project | 实战项目记录
 - [Data structure and Algorithms in Python](https://github.com/liyanjiu/learn-algorithms)  
 - Numpy
 - Django
 - Scrapy
 
-References | 学习参考资料
-----------
+## References | 学习参考资料
 - [Python.org](https://www.python.org/)
 - [Python 3 Documentation](https://docs.python.org/3/)
 - [廖雪峰Python教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)
