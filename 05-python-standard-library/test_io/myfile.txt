@@ -1,0 +1,2 @@
+this is a text file.
+这是一个字符串文件。

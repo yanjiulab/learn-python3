@@ -1,0 +1,3 @@
+The first line is written by write()
+The second line is written by writelines([list_of_lines_one])
+The third line is written by writelines([list_of_lines_two])

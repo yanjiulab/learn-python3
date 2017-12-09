@@ -4,6 +4,11 @@ Given the low speed of loading `.ipynb` file extension in Github, see this notes
 
 This project includes some implementations of python3.
 
+>I hear and I forget.
+>I see and I remember.
+>I do and I understand.
+
+
 ## Index
 
 Getting Started with Python | 从这里开始
